@@ -4,3 +4,8 @@
 ```
 pip install selenium
 ```
+
+## Run App
+```
+python main.py
+```
